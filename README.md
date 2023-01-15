@@ -40,5 +40,5 @@ options:
   -v, --verbose         more verbose output
 ```
 
-##Example of use:
+## Example of use:
 
