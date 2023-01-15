@@ -5,6 +5,8 @@ Usage python image_watermark.py -i <image file name> [-m message to be watermark
 
 please enjoy. 
 
+## option list (from help)
+```
 $ python image-watermark.py 
 usage: image-watermark.py [-h] -i IMAGEFILENAME [-m MESSAGE]
                           [-f {0,1,2,3,4,5,6,7}] [-d {0,1,2}] [-a ALPHA]
@@ -36,6 +38,7 @@ options:
   -t THICKNESS, --thickness THICKNESS
                         thickness (of font)
   -v, --verbose         more verbose output
+```
 
-Example of use:
+##Example of use:
 
